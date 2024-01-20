@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2023/12/24-11:09:12.862 2610 Recovering log #511
 2023/12/24-11:09:13.032 2610 Delete type=0 #511
 2023/12/24-11:09:13.032 2610 Delete type=3 #509
@@ -5,3 +6,8 @@
 2023/12/24-11:12:10.511 f68 Level-0 table #516: 0 bytes OK
 2023/12/24-11:12:10.612 f68 Delete type=0 #514
 2023/12/24-11:12:10.612 f68 Manual compaction at level-0 from '!adventures!MXYUgOcIxQtNuV0I' @ 72057594037927935 : 1 .. '!adventures!MXYUgOcIxQtNuV0I' @ 0 : 0; will stop at (end)
+=======
+2024/01/20-10:39:58.733 3ac4 Recovering log #515
+2024/01/20-10:39:58.924 3ac4 Delete type=0 #515
+2024/01/20-10:39:58.924 3ac4 Delete type=3 #513
+>>>>>>> 0fe2035f00a263536eec465a8bb747eddcbdc511

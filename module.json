@@ -1,13 +1,13 @@
 {
-    "id": "theNest",
-    "title": "Module Content - The Nest",
+    "id": "volturnusII",
+    "title": "Module Content - Volturnus II",
     "description": "VTT Content Module Nest for Alternity 1998 Submitted by uncle_jimbo Setting : Star*Drive Progress Level: 7. A mini-scenario for Star*Drive, suitable for any chosen star system. https://www.alternityrpg.net/resources/1702/original/nest_final.pdf",
     "authors": [
       {
       "name": "bob"
       }
       ],
-    "version": "0.110",
+    "version": "0.01",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
@@ -15,10 +15,10 @@
 
     "packs": [
  {	
-  "label": "TheNest",
+  "label": "Adventure",
   "type": "Adventure",
-  "name": "theNest",
-  "path": "packs/thenest",  
+  "name": "adventure",
+  "path": "packs/adventure",  
      "system": "Alternityd100",
   
     "ownership" : {
@@ -42,9 +42,9 @@
         }]
       },
   
-      "url": "https://github.com/nzlbob/theNest",
-      "manifest": "https://raw.githubusercontent.com/nzlbob/theNest/main/module.json",
-      "download": "https://github.com/nzlbob/theNest/archive/refs/heads/main.zip",
+      "url": "https://github.com/nzlbob/volturnusII",
+      "manifest": "https://raw.githubusercontent.com/nzlbob/volturnusII/main/module.json",
+      "download": "https://github.com/nzlbob/volturnusII/archive/refs/heads/main.zip",
       "media": [
         {
             "type": "setup",
